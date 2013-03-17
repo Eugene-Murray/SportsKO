@@ -23,7 +23,7 @@
             router.mapNav('rugby');
             router.mapNav('ESPN');
             router.mapNav('twitter');
-            log('Hot Towel SPA Loaded!', null, true);
+            log('SportsKO Loaded!', null, true);
             return router.activate('home');
         }
 
@@ -32,8 +32,6 @@
         }
 
         function externalTemplates() {
-            console.log('XXXXXX');
-            
             infuser.defaults.templatePrefix = "_";
             infuser.defaults.templateSuffix = ".tmpl.html";
             infuser.defaults.templateUrl = "/Tmpl";

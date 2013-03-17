@@ -34,7 +34,6 @@ E:\Code\MyStuff\SportsKO\SportsKO\bin\System.Web.WebPages.Deployment.xml
 E:\Code\MyStuff\SportsKO\SportsKO\bin\System.Web.WebPages.Razor.xml
 E:\Code\MyStuff\SportsKO\SportsKO\bin\WebMatrix.Data.xml
 E:\Code\MyStuff\SportsKO\SportsKO\bin\WebMatrix.WebData.xml
-E:\Code\MyStuff\SportsKO\SportsKO\obj\Debug\SportsKO.csprojResolveAssemblyReference.cache
 E:\Code\MyStuff\SportsKO\SportsKO\obj\Debug\SportsKO.dll
 E:\Code\MyStuff\SportsKO\SportsKO\obj\Debug\SportsKO.pdb
 E:\NewDropBox\Dropbox\Code\MYPROJECT\SportsKO_HotTowel\SportsKO\bin\SportsKO.dll
