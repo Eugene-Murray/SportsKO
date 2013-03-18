@@ -6,8 +6,8 @@ define(['durandal/app',
         'durandal/viewLocator',
         'durandal/system',
         'durandal/plugins/router',
-        'services/logger',
-        '../Scripts/infuser'],
+        'services/logger'],
+        //'../Scripts/infuser'],
     function (app, viewLocator, system, router, logger, infuser) {
 
     // Enable debug message to show in the console 

@@ -1,7 +1,7 @@
 ﻿define(['durandal/system',
         'durandal/plugins/router',
-        'services/logger',
-    '../../Scripts/infuser'],
+        'services/logger'],
+    //'../../Scripts/infuser'],
     function (system, router, logger) {
         var shell = {
             activate: activate,
@@ -17,7 +17,7 @@
         }
 
         function boot() {
-            externalTemplates();
+            //externalTemplates();
             router.mapNav('home');
             router.mapNav('football');
             router.mapNav('rugby');
@@ -32,7 +32,7 @@
         }
 
         function externalTemplates() {
-            console.log('XXXXXX');
+            
             
             infuser.defaults.templatePrefix = "_";
             infuser.defaults.templateSuffix = ".tmpl.html";
