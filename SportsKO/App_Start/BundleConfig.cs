@@ -15,7 +15,7 @@ namespace SportsKO
                 .Include("~/scripts/jquery-{version}.js")
                 .Include("~/scripts/knockout-{version}.debug.js")
                 //.Include("~/scripts/infuser.js")
-                .Include("~/scripts/koExternalTemplateEngine_all.js")
+                //.Include("~/scripts/koExternalTemplateEngine_all.js")
                 .Include("~/scripts/sammy-{version}.js")
                 .Include("~/scripts/toastr.js")
                 .Include("~/scripts/Q.js")
