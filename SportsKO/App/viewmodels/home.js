@@ -1,9 +1,5 @@
 ﻿define(['services/logger'], function (logger) {
     
-    //infuser.defaults.templatePrefix = "_";
-    //infuser.defaults.templateSuffix = ".tmpl.html";
-    //infuser.defaults.templateUrl = "/Tmpl/ffff";
-
     var vm = {
         activate: activate,
         title: 'Home View',
